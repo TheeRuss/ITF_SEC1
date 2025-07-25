@@ -1,2 +1,7 @@
-# HELLO_ITF
-## LAB_01
+""" Docstring """
+def main():
+  """Docsring"""
+  print("Hello Git")
+
+  main()
+  
